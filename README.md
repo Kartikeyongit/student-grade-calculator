@@ -24,3 +24,6 @@ g++ main.cpp -o grade
 student-grade-calculator/
 │── main.cpp
 └── README.md
+
+## Screenshot
+<img width="1260" height="411" alt="Screenshot 2025-12-01 140312" src="https://github.com/user-attachments/assets/db6d36b1-dbf7-409f-a0a9-f6c1fb590313" />
